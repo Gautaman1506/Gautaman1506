@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **All tech stacks**
 
-- 💬 Ask me about **React ,Typescript , JS , CSS, HTML,, Tailwind**
+- 💬 Ask me about **React ,Typescript , JS , CSS, HTML, Tailwind**
 
 - 📫 How to reach me **gautaman1701@gmail.com**
 
