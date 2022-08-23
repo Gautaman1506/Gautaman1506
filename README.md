@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gautaman Eswaran</h1>
+<h1 align="center">Hi 👋, I'm Gautaman Eswaran.</h1>
 <h3 align="center">A passionate Product Developer (FrontEnd) from India</h3>
 
 <div id="header" align="center">
@@ -31,7 +31,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gautaman1506&theme=dark" alt="Gautaman1506" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gautaman1506&show_icons=true&theme=dark&count_private=true" alt="Gautaman1506" />
 </p>
-
 
 <br/>
 
