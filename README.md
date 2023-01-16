@@ -9,7 +9,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Gautaman1506&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
 
-- 🔭 I’m currently working on **Lumel Technologies as Associate Product Developer**
+- 🔭 I’m currently working on **Lumel Technologies as Product Developer**
 
 - 🌱 I’m currently learning **All tech stacks**
 
